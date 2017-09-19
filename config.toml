@@ -1,5 +1,5 @@
 baseurl = "https://gautekramvik.github.io/hugotest/"
-title = "Universal"
+title = "Point Taken"
 theme = "universal"
 publishDir = "docs"
 themesDir = "themes"
