@@ -1,6 +1,6 @@
 baseurl = "https://gautekramvik.github.io/hugotest/"
 title = "Point Taken"
-theme = "universal"
+theme = "hugo-universal-theme"
 publishDir = "docs"
 themesDir = "themes"
 languageCode = "en-us"
