@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reklame on Point Taken</title>
+    <link>https://www.pointtaken.no/categories/reklame/index.xml</link>
+    <description>Recent content in Reklame on Point Taken</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2015 - 2016, YourCompany; all rights reserved.</copyright>
+    <atom:link href="https://www.pointtaken.no/categories/reklame/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first post</title>
+      <link>https://www.pointtaken.no/blog/2017/09/07/first-post/</link>
+      <pubDate>Thu, 07 Sep 2017 16:09:25 +0200</pubDate>
+      
+      <guid>https://www.pointtaken.no/blog/2017/09/07/first-post/</guid>
+      <description>
+
+&lt;p&gt;Dette er en blogpost.&lt;/p&gt;
+
+&lt;h2 id=&#34;dette-er-en-overskrift&#34;&gt;Dette er en overskrift&lt;/h2&gt;
+
+&lt;p&gt;Dette er vanlig tekst.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Dette er vanlig tekst inni en boks.
+
+
+
+Dette er MER vanlig tekst inni en boks.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Eksempel.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
