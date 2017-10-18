@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Point Taken</title>
+    <link>https://gautekramvik.github.io/pointtaken/tags/</link>
+    <description>Recent content in Tags on Point Taken</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 25 Sep 2017 13:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="https://gautekramvik.github.io/pointtaken/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Brygging</title>
+      <link>https://gautekramvik.github.io/pointtaken/tags/brygging/</link>
+      <pubDate>Mon, 25 Sep 2017 13:07:31 +0200</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/tags/brygging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ipsum</title>
+      <link>https://gautekramvik.github.io/pointtaken/tags/ipsum/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/tags/ipsum/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

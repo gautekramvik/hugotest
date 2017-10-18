@@ -1,0 +1,57 @@
+/* your styles go here */
+
+.box-image-text .image {
+  min-height: 200px;
+  max-height: 200px;
+}
+
+.box-simple {
+  min-height: 230px;
+}
+
+.home-carousel {
+  background: none;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #100f0c;
+}
+
+.box-simple p {
+  color: #555;
+  font-size: 18px;
+}
+
+.home-carousel .dark-mask {
+  background: url(../img/pattern2.svg);
+  background-size: cover;
+  /*background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7)),url('../img/mountain.png') center center repeat;*/
+}
+
+.bar.background-pentagon {
+  background: url(../img/pattern4.svg);
+  background-size: cover;
+  border: none;
+}
+
+#heading-breadcrumbs {
+  background: url(../img/pattern3.svg);
+  background-size: cover;  
+}
+
+.box-simple .icon {
+  background-image: url(../img/pattern1.svg);
+  font-size: 3em;
+}
+
+.box-simple .icon a {
+  color: #fff;
+}
+
+.mini {
+  margin-top: 1rem;
+}
+
+.navbar-brand>img {
+  max-height: 45px;
+}

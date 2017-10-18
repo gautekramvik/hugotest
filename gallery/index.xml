@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on Point Taken</title>
+    <link>https://gautekramvik.github.io/pointtaken/gallery/</link>
+    <description>Recent content in Galleries on Point Taken</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
+    <lastBuildDate>Tue, 10 Oct 2017 11:48:40 +0200</lastBuildDate>
+    
+	<atom:link href="https://gautekramvik.github.io/pointtaken/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Office 365</title>
+      <link>https://gautekramvik.github.io/pointtaken/gallery/office365/</link>
+      <pubDate>Tue, 10 Oct 2017 11:48:40 +0200</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/gallery/office365/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nintex</title>
+      <link>https://gautekramvik.github.io/pointtaken/gallery/nintex/</link>
+      <pubDate>Tue, 10 Oct 2017 11:08:26 +0200</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/gallery/nintex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Crm</title>
+      <link>https://gautekramvik.github.io/pointtaken/gallery/crm/</link>
+      <pubDate>Tue, 10 Oct 2017 10:25:49 +0200</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/gallery/crm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharepoint</title>
+      <link>https://gautekramvik.github.io/pointtaken/gallery/sharepoint/</link>
+      <pubDate>Tue, 10 Oct 2017 10:23:56 +0200</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/gallery/sharepoint/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
