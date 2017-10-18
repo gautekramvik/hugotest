@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
-    <lastBuildDate>Mon, 25 Sep 2017 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2017 00:49:52 +0200</lastBuildDate>
     
 	<atom:link href="https://gautekramvik.github.io/pointtaken/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Blogg</title>
+      <link>https://gautekramvik.github.io/pointtaken/tags/blogg/</link>
+      <pubDate>Thu, 19 Oct 2017 00:49:52 +0200</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/tags/blogg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Brygging</title>
       <link>https://gautekramvik.github.io/pointtaken/tags/brygging/</link>
-      <pubDate>Mon, 25 Sep 2017 13:07:31 +0200</pubDate>
+      <pubDate>Thu, 19 Oct 2017 01:03:05 +0200</pubDate>
       
       <guid>https://gautekramvik.github.io/pointtaken/tags/brygging/</guid>
       <description></description>

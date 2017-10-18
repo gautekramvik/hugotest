@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Brygging on Point Taken</title>
-    <link>https://gautekramvik.github.io/pointtaken/tags/brygging/</link>
-    <description>Recent content in Brygging on Point Taken</description>
+    <title>Sharepoint on Point Taken</title>
+    <link>https://gautekramvik.github.io/pointtaken/categories/sharepoint/</link>
+    <description>Recent content in Sharepoint on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
     <lastBuildDate>Thu, 19 Oct 2017 01:03:05 +0200</lastBuildDate>
     
-	<atom:link href="https://gautekramvik.github.io/pointtaken/tags/brygging/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gautekramvik.github.io/pointtaken/categories/sharepoint/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <guid>https://gautekramvik.github.io/pointtaken/blog/2017/10/19/testblogg/</guid>
       <description> Overskrift h2  Dette er et sitat fra Albit Einsten.
  </description>
-    </item>
-    
-    <item>
-      <title>Veien til IKTNM2017</title>
-      <link>https://gautekramvik.github.io/pointtaken/blog/2017/09/25/second/</link>
-      <pubDate>Mon, 25 Sep 2017 13:07:31 +0200</pubDate>
-      
-      <guid>https://gautekramvik.github.io/pointtaken/blog/2017/09/25/second/</guid>
-      <description>Dette er historen om hvordan Point Taken vant IKTNM i ølbrygging, høsten 2017.
- Det var en gang &amp;hellip;</description>
     </item>
     
   </channel>

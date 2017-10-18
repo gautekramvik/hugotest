@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Brygging on Point Taken</title>
-    <link>https://gautekramvik.github.io/pointtaken/categories/brygging/</link>
-    <description>Recent content in Brygging on Point Taken</description>
+    <title>Blogg on Point Taken</title>
+    <link>https://gautekramvik.github.io/pointtaken/tags/blogg/</link>
+    <description>Recent content in Blogg on Point Taken</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
     <lastBuildDate>Thu, 19 Oct 2017 00:49:52 +0200</lastBuildDate>
     
-	<atom:link href="https://gautekramvik.github.io/pointtaken/categories/brygging/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gautekramvik.github.io/pointtaken/tags/blogg/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,16 +21,6 @@
       <description> Overskift h1 Overskrift h2 Overskrift h3  Her kommer et sitat
  Vanlig tekst
  Her er et innrykk   Listepunkt 1 Listepunkt 2  Innrykk   </description>
-    </item>
-    
-    <item>
-      <title>Veien til IKTNM2017</title>
-      <link>https://gautekramvik.github.io/pointtaken/blog/2017/09/25/second/</link>
-      <pubDate>Mon, 25 Sep 2017 13:07:31 +0200</pubDate>
-      
-      <guid>https://gautekramvik.github.io/pointtaken/blog/2017/09/25/second/</guid>
-      <description>Dette er historen om hvordan Point Taken vant IKTNM i ølbrygging, høsten 2017.
- Det var en gang &amp;hellip;</description>
     </item>
     
   </channel>
