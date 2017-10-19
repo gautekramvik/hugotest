@@ -53,5 +53,6 @@
 }
 
 .navbar-brand>img {
-  max-height: 45px;
+  max-height: 30px;
+  margin-top: 1rem;
 }

@@ -7,17 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 19 Oct 2017 15:47:44 +0200</lastBuildDate>
     
 	<atom:link href="https://gautekramvik.github.io/pointtaken/categories/sharepoint/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Testblogg</title>
-      <link>https://gautekramvik.github.io/pointtaken/blog/1/01/01/testblogg/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Demoblag</title>
+      <link>https://gautekramvik.github.io/pointtaken/blog/2017/10/19/demoblag/</link>
+      <pubDate>Thu, 19 Oct 2017 15:47:44 +0200</pubDate>
       
-      <guid>https://gautekramvik.github.io/pointtaken/blog/1/01/01/testblogg/</guid>
-      <description> Overskrift h2  Dette er et sitat fra Albit Einsten.
+      <guid>https://gautekramvik.github.io/pointtaken/blog/2017/10/19/demoblag/</guid>
+      <description> h3 Dette er en blogpost dedisert til gode sitater.
+ Fredrik, har du fyllt opp hardisken med SharePoint igjen? Tenk på lisensen, Fredrik!
  </description>
     </item>
     

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gautekramvik.github.io/pointtaken/blog/2017/10/19/demoblag/</loc>
+    <lastmod>2017-10-19T15:47:44+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gautekramvik.github.io/pointtaken/r%C3%A5dgivning/</loc>
     <lastmod>2017-10-12T13:32:41+02:00</lastmod>
   </url>
@@ -84,13 +89,13 @@
   
   <url>
     <loc>https://gautekramvik.github.io/pointtaken/blog/</loc>
-    <lastmod>2017-09-27T11:02:44+02:00</lastmod>
+    <lastmod>2017-10-19T15:47:44+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gautekramvik.github.io/pointtaken/tags/brygging/</loc>
-    <lastmod>2017-09-25T13:07:31+02:00</lastmod>
+    <lastmod>2017-10-19T15:47:44+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -134,13 +139,19 @@
   
   <url>
     <loc>https://gautekramvik.github.io/pointtaken/</loc>
-    <lastmod>2017-10-12T13:32:41+02:00</lastmod>
+    <lastmod>2017-10-19T15:47:44+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://gautekramvik.github.io/pointtaken/categories/sharepoint/</loc>
+    <lastmod>2017-10-19T15:47:44+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://gautekramvik.github.io/pointtaken/tags/</loc>
-    <lastmod>2017-09-25T13:07:31+02:00</lastmod>
+    <lastmod>2017-10-19T15:47:44+02:00</lastmod>
     <priority>0</priority>
   </url>
   
