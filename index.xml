@@ -7,31 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 19 Oct 2017 01:03:05 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 12 Oct 2017 13:32:41 +0200</lastBuildDate>
     
 	<atom:link href="https://gautekramvik.github.io/pointtaken/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Testblogg</title>
-      <link>https://gautekramvik.github.io/pointtaken/blog/2017/10/19/testblogg/</link>
-      <pubDate>Thu, 19 Oct 2017 01:03:05 +0200</pubDate>
-      
-      <guid>https://gautekramvik.github.io/pointtaken/blog/2017/10/19/testblogg/</guid>
-      <description> Overskrift h2  Dette er et sitat fra Albit Einsten.
- </description>
-    </item>
-    
-    <item>
-      <title>Demoblog</title>
-      <link>https://gautekramvik.github.io/pointtaken/blog/2017/10/19/demoblog/</link>
-      <pubDate>Thu, 19 Oct 2017 00:49:52 +0200</pubDate>
-      
-      <guid>https://gautekramvik.github.io/pointtaken/blog/2017/10/19/demoblog/</guid>
-      <description> Overskift h1 Overskrift h2 Overskrift h3  Her kommer et sitat
- Vanlig tekst
- Her er et innrykk   Listepunkt 1 Listepunkt 2  Innrykk   </description>
-    </item>
     
     <item>
       <title>rådgivning</title>
