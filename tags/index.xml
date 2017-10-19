@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 19 Oct 2017 15:47:44 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 19 Oct 2017 19:04:11 +0200</lastBuildDate>
     
 	<atom:link href="https://gautekramvik.github.io/pointtaken/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://gautekramvik.github.io/pointtaken/tags/</link>
+      <pubDate>Thu, 19 Oct 2017 19:04:11 +0200</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/tags/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Brygging</title>
