@@ -7,19 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright (c) 2017 - 2018, Point Taken AS; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 19 Oct 2017 19:04:11 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 12 Oct 2017 13:32:41 +0200</lastBuildDate>
     
 	<atom:link href="https://gautekramvik.github.io/pointtaken/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Testblog</title>
-      <link>https://gautekramvik.github.io/pointtaken/blog/2017/10/19/testblog/</link>
-      <pubDate>Thu, 19 Oct 2017 19:04:11 +0200</pubDate>
-      
-      <guid>https://gautekramvik.github.io/pointtaken/blog/2017/10/19/testblog/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>rådgivning</title>
@@ -36,8 +27,8 @@
       <pubDate>Thu, 12 Oct 2017 13:32:16 +0200</pubDate>
       
       <guid>https://gautekramvik.github.io/pointtaken/teams/</guid>
-      <description>Microsoft Teams - Samhandlings-verktøyet som virkelig gjør en forskjell Point Taken har lang erfaring med implementering, opplæring og utvikling med samhandlingsverktøyet Microsoft Teams.
-Dette verktøyet samler ansatte, samtaler, innhold og verktøy på en unik måte. Workplace by Facebook, Slack og Yammer har god samhandlingsfunksjonalitet hver på sin måte, men ingen av dem gjør alt det Teams gjør. Teams gir brukerne en mulighet til å samle «alt» på en flate, noe som oppleves som en betydelig forenkling i et virvar av tjenester og apper.</description>
+      <description>Microsoft Teams - Samhandlings-verktøyet som virkelig gjør en forskjell  Point Taken har lang erfaring med implementering, opplæring og utvikling med samhandlingsverktøyet Microsoft Teams.
+ Dette verktøyet samler ansatte, samtaler, innhold og verktøy på en unik måte. Workplace by Facebook, Slack og Yammer har god samhandlingsfunksjonalitet hver på sin måte, men ingen av dem gjør alt det Teams gjør. Teams gir brukerne en mulighet til å samle «alt» på en flate, noe som oppleves som en betydelig forenkling i et virvar av tjenester og apper.</description>
     </item>
     
     <item>
@@ -135,33 +126,12 @@ Du kan enkelt kjøpe Microsoft Office 365 av oss ved å velge en pakke som passe
     </item>
     
     <item>
-      <title>Blogginnlegg</title>
-      <link>https://gautekramvik.github.io/pointtaken/blog/2017/09/27/blogginnlegg/</link>
-      <pubDate>Wed, 27 Sep 2017 11:02:44 +0200</pubDate>
-      
-      <guid>https://gautekramvik.github.io/pointtaken/blog/2017/09/27/blogginnlegg/</guid>
-      <description> Dette er en overskrift inne i blogginnlegget Her kan det skrives vanlig tekst.
- To tabs ser sånn ut   En &amp;ldquo;&amp;gt;&amp;rdquo; ser sånn ut.
- </description>
-    </item>
-    
-    <item>
       <title>Hvem er vi?</title>
       <link>https://gautekramvik.github.io/pointtaken/om-oss/</link>
       <pubDate>Mon, 25 Sep 2017 15:27:14 +0200</pubDate>
       
       <guid>https://gautekramvik.github.io/pointtaken/om-oss/</guid>
       <description>Point Taken er det ledende spesialistselskapet innen digital samhandling på Microsoft plattform og Nintex automasjon i Norge. Vi hjelper våre kunder å utnytte potensialet i å forenkle og samle virksomhetskritiske løsninger på en trygg plattform av standard programvare tilpasset hver enkelt kunde. Point Taken er en av de høyest sertifiserte Microsoft Gullpartnere i Norge, noe som krever sertifiserte konsulenter, fornøyde kunder og en fokusert ledelse. Selskapet består utelukkende av seniorkonsulenter, som alle er spesialister med mange års erfaring.</description>
-    </item>
-    
-    <item>
-      <title>Veien til IKTNM2017</title>
-      <link>https://gautekramvik.github.io/pointtaken/blog/2017/09/25/second/</link>
-      <pubDate>Mon, 25 Sep 2017 13:07:31 +0200</pubDate>
-      
-      <guid>https://gautekramvik.github.io/pointtaken/blog/2017/09/25/second/</guid>
-      <description>Dette er historen om hvordan Point Taken vant IKTNM i ølbrygging, høsten 2017.
- Det var en gang &amp;hellip;</description>
     </item>
     
     <item>
@@ -173,6 +143,37 @@ Du kan enkelt kjøpe Microsoft Office 365 av oss ved å velge en pakke som passe
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Gautes rosablogg</title>
+      <link>https://gautekramvik.github.io/pointtaken/blog/2015/10/10/blogginnlegg/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/blog/2015/10/10/blogginnlegg/</guid>
+      <description> Dette er en overskrift inne i blogginnlegget Her kan det skrives vanlig tekst.
+ To tabs ser sånn ut   En &amp;ldquo;&amp;gt;&amp;rdquo; ser sånn ut.
+ </description>
+    </item>
+    
+    <item>
+      <title>Testblogg</title>
+      <link>https://gautekramvik.github.io/pointtaken/blog/2015/10/10/testblog/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/blog/2015/10/10/testblog/</guid>
+      <description>Dette er en testblogg Her kan det stå så veldig mye rart.</description>
+    </item>
+    
+    <item>
+      <title>Veien til IKTNM2017</title>
+      <link>https://gautekramvik.github.io/pointtaken/blog/2015/10/10/second/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/blog/2015/10/10/second/</guid>
+      <description>Dette er historen om hvordan Point Taken vant IKTNM i ølbrygging, høsten 2017.
+ Det var en gang &amp;hellip;
+Her kommer det masse tekst om hvordan vi NESTEN kom på førsteplass&amp;hellip;</description>
     </item>
     
     <item>

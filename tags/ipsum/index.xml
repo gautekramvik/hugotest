@@ -23,5 +23,16 @@
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
+    <item>
+      <title>Gautes rosablogg</title>
+      <link>https://gautekramvik.github.io/pointtaken/blog/2015/10/10/blogginnlegg/</link>
+      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      
+      <guid>https://gautekramvik.github.io/pointtaken/blog/2015/10/10/blogginnlegg/</guid>
+      <description> Dette er en overskrift inne i blogginnlegget Her kan det skrives vanlig tekst.
+ To tabs ser sånn ut   En &amp;ldquo;&amp;gt;&amp;rdquo; ser sånn ut.
+ </description>
+    </item>
+    
   </channel>
 </rss>
